@@ -1,7 +1,7 @@
 # ksat_counter
 
-#### Snack Project
-#### 만들어보고 싶어서 만들어보는 수능 계산기
+Snack Project
+만들어보고 싶어서 만들어보는 수능 계산기
 
 ## Getting Started
 
